@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1,De- 13th Street HD
 http://194.88.107.95:6204/live/Abas/Abas/12372.ts
-#EXTINF:-1,De- 3Sat HD
-http://194.88.107.95:6204/live/Abas/Abas/12203.ts
+
 #EXTINF:-1,De- A&E
 http://194.88.107.95:6204/live/Abas/Abas/12272.ts
 #EXTINF:-1,De- Animal Planet HD
